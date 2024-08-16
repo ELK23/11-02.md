@@ -53,12 +53,12 @@
 
 `Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.`
 
-`![image](https://github.com/user-attachments/assets/baa0495e-4aa7-4902-a51b-fd11310073d0)`
+![image](https://github.com/user-attachments/assets/baa0495e-4aa7-4902-a51b-fd11310073d0)
 
 ### Задание 4 Запись данных в Redis
 
 
-`![image](https://github.com/user-attachments/assets/51c7813e-1e9d-4556-b992-efdce9a23703)`
+![image](https://github.com/user-attachments/assets/51c7813e-1e9d-4556-b992-efdce9a23703)
 
 
 
