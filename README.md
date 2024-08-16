@@ -37,9 +37,6 @@
 `Установите и запустите memcached.`
 
 
-```
-
-```
 
 `
 ![image](https://github.com/user-attachments/assets/5a7df1f5-6ac9-4538-9b1e-dfef739a7ddb)
